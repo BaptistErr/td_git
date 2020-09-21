@@ -13,3 +13,5 @@ Equipage
 3/
   2) git status donne des informations sur le repo local
   4) Affiche que le fichier a bien été ajouté
+  6) Affiche que tout a été commit
+  8) Affiche les commits effectués
